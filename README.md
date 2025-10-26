@@ -13,7 +13,7 @@ I'm a developer who believes the best code is the code you don't have to write. 
 
 ---
 
-### 🧰 My Stack of Shortcuts
+### 🧰 Shortcuts of My Stack 
 
 **Python Stack**
 <p align="left">
