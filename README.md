@@ -9,7 +9,7 @@ I'm a developer who believes the best code is the code you don't have to write. 
 
 - 💻 &nbsp; **What I do:** Turn caffeine & ciggar into automated solutions.
 - 💤 &nbsp; **What I'm *not* doing:** Repetitive manual tasks, just use *AI* bruh this is **2025**.
-- 🎯 &nbsp; **Why My 'coding working':** Bc my "lazy" solutions just work.
+- 🎯 &nbsp; **Why My 'code working':** Bc my "lazy" solutions just work.
 
 ---
 
