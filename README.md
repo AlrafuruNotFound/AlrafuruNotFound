@@ -1,7 +1,7 @@
 ### AlrafuruNotFound (`ALIF RAMADHAN`)
 
-**Code: `200 OK`**
-**Me: `404 Not Found`**
+**Me: `200 OK`**
+**Code: `404 Not Found`**
 
 I'm a developer who believes the best code is the code you don't have to write. I build robust, simple solutions so I can go back to... *not* working.
 
