@@ -1,5 +1,5 @@
 ### 
-[![Welcome My Profile, Me AlrafuruNotFound (`ALIF RAMADHAN`)](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+My+Profile,+Me+ALIF+RAMADHAN;Known+as+(AlrafuruNotFound))](https://git.io/typing-svg)
 **Me: `200 OK`**
 **Code: `404 Not Found`**
 
