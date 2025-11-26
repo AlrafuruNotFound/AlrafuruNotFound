@@ -1,4 +1,11 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+My+Profile,+Me+ALIF+RAMADHAN;Known+as+(AlrafuruNotFound))](https://git.io/typing-svg)
+### 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile+:;Currently+Interested+with+:;-Data+Scince+)](https://git.io/typing-svg)
+[![Typing SVG1](https://readme-typing-svg.demolab.com/?lines=It's+Me+ALIF+R.A.F;+;-Statistics+Probability+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=People+Know+Me+as+:;-Neuro+Science+;-Biotechnology+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AlrafuruNotFound+;-Artificial+Intelligent+;-Fluid+Dynamics+)](https://git.io/typing-svg)
+[![Typing SVG2](https://readme-typing-svg.demolab.com/?lines=Daily+Rotations+:;-Differential+Equations+;-IOT+)](https://git.io/typing-svg)
+[![Typing SVG3](https://readme-typing-svg.demolab.com/?lines=Playing+Games,Watch+Anime,Analytical+Inquiry/Exploratory+Research;-Classical+Mechanics+;-Electromagnetism+)](https://git.io/typing-svg)
+
 **Me: `200 OK`**
 **Code: `404 Not Found`**
 
@@ -30,9 +37,9 @@ I'm a developer who believes the best code is the code you don't have to write. 
 
 ### 📊 My Activity Log Always Pending.. What are you waiting for?
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlrafuruNotFound&theme=dark&hide_border=true" alt="Alif's Contribution Streak" />
-</p>
+</p> -->
 
 
 <!--
