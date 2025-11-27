@@ -1,6 +1,6 @@
 ### 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile+:;Currently+Interested+with+:;-Data+Scince+)](https://git.io/typing-svg)
-[![Typing SVG1](https://readme-typing-svg.demolab.com/?lines=It's+Me+ALIF+R.A.F;+;-Statistics+Probability+)](https://git.io/typing-svg)
+[![Typing SVG1](https://readme-typing-svg.demolab.com/?lines=It's+Me+ALIF+RAMADHAN;+;-Statistics+Probability+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=People+Know+Me+as+:;-Neuro+Science+;-Biotechnology+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AlrafuruNotFound+;-Artificial+Intelligent+;-Fluid+Dynamics+)](https://git.io/typing-svg)
 [![Typing SVG2](https://readme-typing-svg.demolab.com/?lines=Daily+Rotations+:;-Differential+Equations+;-IOT+)](https://git.io/typing-svg)
