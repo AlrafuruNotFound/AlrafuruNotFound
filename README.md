@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=People+Know+Me+as+:;-Neuro+Science+;-Biotechnology+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AlrafuruNotFound+;-Artificial+Intelligent+;-Fluid+Dynamics+)](https://git.io/typing-svg)
 [![Typing SVG2](https://readme-typing-svg.demolab.com/?lines=Daily+Rotations+:;-Differential+Equations+;-IOT+)](https://git.io/typing-svg)
-[![Typing SVG3](https://readme-typing-svg.demolab.com/?lines=Playing+Games,Watch+Anime,Analytical+Inquiry/Exploratory+Research;-Classical+Mechanics+;-Electromagnetism+)](https://git.io/typing-svg)
+[![Typing SVG3](https://readme-typing-svg.demolab.com/?lines=Playing+Games,Watch+Anime+;-Classical+Mechanics+;-Electromagnetism+)](https://git.io/typing-svg)
 
 **Me: `200 OK`**
 **Code: `404 Not Found`**
