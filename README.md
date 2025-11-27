@@ -6,10 +6,9 @@
 [![Typing SVG2](https://readme-typing-svg.demolab.com/?lines=Daily+Rotations+:;-Differential+Equations+;-IOT+)](https://git.io/typing-svg)
 [![Typing SVG3](https://readme-typing-svg.demolab.com/?lines=Playing+Games,Watch+Anime+;-Classical+Mechanics+;-Electromagnetism+)](https://git.io/typing-svg)
 
-**Me: `200 OK`**
-**Code: `404 Not Found`**
+**Philosophy: `404 Not Found`**
 
-I'm a developer who believes the best code is the code you don't have to write. I build robust, simple solutions so I can go back to... *not* working.
+"I'm a developer who believes the best code is the code you don't have to write. I build robust, simple solutions so I can go back to... *not* working."
 
 ---
 
