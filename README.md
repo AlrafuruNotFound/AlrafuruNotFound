@@ -8,7 +8,7 @@
 
 **Philosophy: `404 Not Found`**
 
-"I'm a developer who believes the best code is the code you don't have to write. 
+"I'm a developer who believes the best code is the code you don't have to write. <br>
 I build robust, simple solutions so I can go back to... *not* working."
 
 ---
