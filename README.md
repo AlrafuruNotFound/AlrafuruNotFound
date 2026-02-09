@@ -6,10 +6,11 @@
 [![Typing SVG2](https://readme-typing-svg.demolab.com/?lines=Daily+Rotations+:;-Differential+Equations+;-IOT+)](https://git.io/typing-svg)
 [![Typing SVG3](https://readme-typing-svg.demolab.com/?lines=Playing+Games,Watch+Anime+;-Classical+Mechanics+;-Electromagnetism+)](https://git.io/typing-svg)
 
-**Philosophy: `404 Not Found`**
+---
 
 "I'm a developer who believes the best code is the code you don't have to write. <br>
 I build robust, simple solutions so I can go back to... *not* working."
+**Philosophy: `404 Not Found`**
 
 ---
 
@@ -24,14 +25,14 @@ I build robust, simple solutions so I can go back to... *not* working."
 **Python Stack**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,py,django,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,py,django,postgres,/,mysql" />
   </a>
 </p>
 
 **PERN Stack**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,express,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,express,postgres,/,mysql" />
   </a>
 </p>
 
