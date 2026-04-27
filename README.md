@@ -25,7 +25,7 @@ I build robust, simple solutions so I can go back to... *not* working."
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,react,py,django,nodejs,prisma,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,php,npm,ts,react,py,laravel,django,nodejs,prisma,supabase,postgres,mysql" />
   </a>
 </p>
 
