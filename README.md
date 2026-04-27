@@ -23,17 +23,9 @@ I build robust, simple solutions so I can go back to... *not* working."
 
 ### 🧰 Shortcuts of My Stack 
 
-**Python Stack**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,py,django,prisma,postgres,mysql" />
-  </a>
-</p>
-
-**PERN Stack**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,express,prisma,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,react,py,django,nodejs,prisma,postgres,mysql" />
   </a>
 </p>
 
