@@ -36,6 +36,7 @@ I build robust, simple solutions so I can go back to... *not* working."
     <img src="https://skillicons.dev/icons?i=py,laravel,django,nodejs,prisma,supabase,postgres,mysql" />
   </a>
 </p>
+
 ---
 
 <p align="right">
