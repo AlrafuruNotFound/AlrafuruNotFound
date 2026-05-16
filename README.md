@@ -8,6 +8,10 @@
 
 ---
 
+### 🦉 Main Portfolio: [UnleashMystCode](https://github.com/UnleashMystCode)
+
+---
+
 "I'm a developer who believes the best code is the code you don't have to write. <br>
 I build robust, simple solutions so I can go back to... *not* working."
 
@@ -21,7 +25,7 @@ I build robust, simple solutions so I can go back to... *not* working."
 
 ---
 
-### 🧰 Shortcuts of My Stack 
+### 🧰 My Full-Stack Arsenal 
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -32,31 +36,3 @@ I build robust, simple solutions so I can go back to... *not* working."
     <img src="https://skillicons.dev/icons?i=py,laravel,django,nodejs,prisma,supabase,postgres,mysql" />
   </a>
 </p>
-
-### 📊 My Activity Log Always Pending.. What are you waiting for?
-
-<!-- <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlrafuruNotFound&theme=dark&hide_border=true" alt="Alif's Contribution Streak" />
-</p> -->
-
-
-<!--
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlrafuruNotFound&show_icons=true&theme=radical" />
-</p>
-## Hi there 👋
-
-**AlrafuruNotFound/AlrafuruNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
