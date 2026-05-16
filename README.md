@@ -25,7 +25,7 @@ I build robust, simple solutions so I can go back to... *not* working."
 
 ---
 
-### 🧰 My Full-Stack Arsenal 
+### 🧪 **The Experimental Stack**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,4 +35,9 @@ I build robust, simple solutions so I can go back to... *not* working."
   <a href="https://skillicons.dev">  
     <img src="https://skillicons.dev/icons?i=py,laravel,django,nodejs,prisma,supabase,postgres,mysql" />
   </a>
+</p>
+---
+
+<p align="right">
+  <sub>Managed with ☕ and 🚬 by <b>@AlrafuruNotFound</b></sub>
 </p>
